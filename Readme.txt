@@ -1,1 +1,0 @@
-this is the project I designed for COMM14 course , this project use arduino to transmitt message through binary 
